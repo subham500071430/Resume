@@ -1,0 +1,119 @@
+body {
+    text-align: center;
+    margin: 0px 0px 0px 0px;
+    height: auto;
+    width: 100%;
+    color:#40514E;
+}
+span {
+    text-decoration: underline;
+}
+.top-container {
+    background-color: #e0ffff;
+    padding-top: 20px;
+}
+.middle-container {
+    margin-top: 50px;
+    margin-bottom: 70px;
+}
+.skill {
+    line-height: 2;
+}
+.skill-row1 {
+    width: 40%;
+    margin: 40px auto 50px auto;
+    line-height: 3;
+}
+.skill-row2 {
+    width: 45%;
+    margin : 100px auto 50px auto;
+}
+.top-cloud {
+    position: absolute;
+    top: 50px;
+    right:270px;
+    height: 35px;
+}
+.bottom-cloud {
+    position: absolute;
+    bottom:230px;
+    left: 270px;
+    height: 35px;
+}
+.mountain {
+    height: 300px;  
+}
+
+h1 {
+    font-size:2.5rem;
+    padding-top: 60px;
+    color:#66BFBF;
+    line-height: 2;
+    font-family: 'Montserrat', sans-serif;
+}
+h2 {
+    font-size:1.5rem;
+    color:#66BFBF;
+    font-weight: normal;
+    margin-top: 50px;
+}
+h3{
+    color:#11999E;
+}
+p,a {
+    font-family: 'Raleway', sans-serif;
+}
+.about-me {
+    height: 150px;
+}
+.about-skills {
+    float: left;
+    height: 130px;
+    margin-right: 50px;
+}
+.about-skills-dsa {
+    float: right;
+    height: 130px;
+    margin-left: 50px;
+} 
+hr {
+    width: 4%;
+    border-top:dotted 6px;
+    border-left: 0px;
+    border-right:0px;
+    border-bottom: 0px;
+    border-color: lightslategray;
+}
+.program,.type {
+    text-align: left;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+.social{
+    background-color:#66BFBF;
+    padding-top: 50px;
+    width: auto;
+    height: 70px;
+    margin-top: 30px;
+}
+.first-link{
+    margin-right: 30px;
+}
+.second-link{
+    margin-right: 30px;
+    margin-left: 30px;
+}
+.third-link{
+    margin-left: 30px;
+}
+a:link {
+    text-decoration: none;
+    color:black
+}
+a:visited{
+    text-decoration: none;
+    color:black
+}
+a:hover {
+     text-decoration: underline;
+}
